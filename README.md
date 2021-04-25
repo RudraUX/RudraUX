@@ -28,7 +28,7 @@
 
 <br />
 
-[<img align="right"  src="https://i.imgur.com/t19qWBj.gif" alt="Coder GIF" height="280">][myprofile]
+[<img align="right"  src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" alt="Coder GIF" height="280">][myprofile]
 
 <hr/>
 
