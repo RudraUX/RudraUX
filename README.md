@@ -12,7 +12,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.<br />
 - 👯 ! H E A T H E R<br />
 - ⚡ Fun fact 1.0 : Married with javascript<br />
-  ⚡ Fun fact 2.0: Photoshop is my Ex
+- ⚡ Fun fact 2.0: Photoshop is my Ex
 <br/>
 <hr/>
 
