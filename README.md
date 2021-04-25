@@ -70,7 +70,7 @@
 <hr/>
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=escanor&show_icons=true&hide_border=true&hide=stars,prs,issues&theme=radical" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RudraUX&show_icons=true&hide_border=true&hide=stars,prs,issues&theme=radical" />
 </details>
 
 [myprofile]: https://github.com/rudraux
