@@ -11,7 +11,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.<br />
 - 👯 ! H E A T H E R<br />
 - ⚡ Fun fact 1.0 : Married with javascript<br />
-⚡ Fun fact 2. 0: Photoshop is my Ex
+⚡ Fun fact 2.0: Photoshop is my Ex
 <br/>
 <hr/>
 
@@ -36,36 +36,30 @@
 
 [<img align="left" alt="HTML5" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][myprofile]
 [<img align="left" alt="CSS3" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][myprofile]
-[<img align="left" alt="JavaScript" width="33px" src="https://imgur.com/hW0NtHc" />][myprofile]
+[<img align="left" alt="JavaScript" width="33px" src="https://i.imgur.com/nL7wWYV.png" />][myprofile]
 <br/>
 <br/>
-[<img align="left" alt="" width="33px" src="" />][myprofile]
-[<img align="left" alt="" width="33px" src=""/>][myprofile]
+[<img align="left" alt="nodejs" width="33px" src="https://i.imgur.com/SHtwLKS.png" />][myprofile]
+[<img align="left" alt="sass" width="33px" src="https://i.imgur.com/HDypNU9.png"/>][myprofile]
 [<img align="left" alt="React" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][myprofile]
 <br/>
 <br/>
-[<img align="left" alt="Node.JS" width="33px" src="https://imgur.com/Kcb5Daq" />][myprofile]
-[<img align="left" alt="" width="33px" src="https://imgur.com/Ll4odLU" />][myprofile]
-[<img align="left" alt="sass" width="33px" src="https://imgur.com/ZcS3EE0" />][myprofile]
-<br/>
-<br/>
+[<img align="left" alt="Node.JS" width="33px" src="https://i.imgur.com/6KMMj6p.png" />][myprofile]
 [<img align="left" alt="MongoDB" width="33px" src="https://i.imgur.com/uyStyoI.png" />][myprofile]
-[<img align="left" alt="" width="33px" src="" />][myprofile]
-[<img align="left" alt="" width="33px" src="" />][myprofile]
+[<img align="left" alt="Docker" width="33px" src="https://i.imgur.com/a77nqqT.png" />][myprofile]
+
+<br/>
+
+<br/>
+[<img align="left" alt="photoshop" width="33px" src="https://i.imgur.com/0wF2XOt.png" />][myprofile]
+[<img align="left" alt="adobexd" width="33px" src="https://i.imgur.com/aS5MkYE.png" />][myprofile]
+[<img align="left" alt="figma" width="33px" src="https://i.imgur.com/Mk0WKfe.png" />][myprofile]
 <br/>
 <br/>
-[<img align="left" alt="" width="33px" src="https://imgur.com/fcAJbE1" />][myprofile]
-[<img align="left" alt="" width="33px" src="https://imgur.com/Bg863xo" />][myprofile]
-[<img align="left" alt="" width="33px" src="https://imgur.com/996PJiT" />][myprofile]
-<br/>
-<br/>
-[<img align="left" alt="" width="33px" src="" />][myprofile]
-[<img align="left" alt="" width="33px" src="" />][myprofile]
-[<img align="left" alt="postman" width="33px" src="" />][myprofile]
 
 <br />
 
-[<img align="right"  src="https://i.imgur.com/rLFiAr5.gif" alt="Coder GIF" height="280">][myprofile]
+[<img align="right"  src="https://i.gifer.com/Bm7L.gif" alt="Coder GIF" height="280">][myprofile]
 
 <hr/>
 
