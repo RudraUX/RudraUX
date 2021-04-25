@@ -63,7 +63,7 @@
 
 ### 💳 Language Card
 
-<img align="center" alt="escanor's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escanor&&layout=compact&&theme=tokyonight" />
+<img align="center" alt="escanor's Github Stats" src="https://i.imgur.com/nL7wWYV.png" />
 
 <br />
 
