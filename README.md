@@ -6,6 +6,7 @@
 
 ### I am a Full-stack Web Developer and UI UX Designer.
 
+<br/>
 - 🔭 Love to Create Beautiful ui and applications<br />
 - 🌱 I’m currently learning Nodejs<br />
 - 🥅 2021 Goals: Contribute more to Open Source projects.<br />
@@ -17,6 +18,7 @@
 
 ### 🧧 Connect with me:
 
+<br/>
 <!-- [<img align="left" alt="escanor" width="25px" src="http://pngimg.com/uploads/globe/globe_PNG100096.png" />][website] -->
 
 [<img align="left" alt="escanor | Instagram" width="25px" src="https://i.imgur.com/V811SFU.png"/>][instagram]
@@ -36,6 +38,7 @@
 
 ### ⚙ Languages and Tools:
 
+<br/>
 [<img align="left" alt="HTML5" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][myprofile]
 [<img align="left" alt="CSS3" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][myprofile]
 [<img align="left" alt="JavaScript" width="33px" src="https://i.imgur.com/nL7wWYV.png" />][myprofile]
@@ -70,6 +73,7 @@
 
 ### 💳 Language Card
 
+<br/>
 <img align="center" alt="subhamrex's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraux&&layout=compact&&theme=tokyonight" />
 
 <br />
