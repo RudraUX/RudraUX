@@ -11,7 +11,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.<br />
 - 👯 ! H E A T H E R<br />
 - ⚡ Fun fact 1.0 : Married with javascript<br />
--⚡ Fun fact 2. 0: Photoshop is my Ex
+⚡ Fun fact 2. 0: Photoshop is my Ex
 <br/>
 <hr/>
 
@@ -25,6 +25,7 @@
 [<img align="left" alt="escanor | Instagram" width="25px" src="https://i.imgur.com/V811SFU.png"/>][instagram]
 [<img align="left" alt="escanor | Dribble" width="25px" src="https://i.imgur.com/iAyyIQV.png"/>][dribble]
 [<img align="left" alt="escanor | Behance" width="25px" src=https://i.imgur.com/ivRJGef.png"/>][behance]
+
 <br />
 
 [<img align="right"  src="https://i.imgur.com/UWbDP3y.gif" alt="Coder GIF" height="280">][myprofile]
