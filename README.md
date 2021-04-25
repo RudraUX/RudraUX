@@ -28,7 +28,7 @@
 
 <br />
 
-[<img align="right"  src="https://i.imgur.com/t19qWBj.gifv" alt="Coder GIF" height="280">][myprofile]
+[<img align="right"  src="https://i.imgur.com/t19qWBj.gif" alt="Coder GIF" height="280">][myprofile]
 
 <hr/>
 
@@ -57,13 +57,13 @@
 
 <br />
 
-[<img align="right"  src="https://i.gifer.com/Bm7L.gif" alt="Coder GIF" height="280">][myprofile]
+[<img align="right"  src="https://media.giphy.com/media/3o6Zt8ToYuTCJyNXgY/giphy.gif" alt="Coder GIF" height="280">][myprofile]
 
 <hr/>
 
 ### 💳 Language Card
 
-<img align="center" alt="escanor's Github Stats" src="https://i.imgur.com/nL7wWYV.png" />
+<img align="center" alt="subhamrex's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraux&&layout=compact&&theme=tokyonight" />
 
 <br />
 
