@@ -28,7 +28,7 @@
 
 <br />
 
-[<img align="right"  src="https://i.gifer.com/Bm7L.gif" alt="Coder GIF" height="280">][myprofile]
+[<img align="right"  src="https://i.imgur.com/t19qWBj.gifv" alt="Coder GIF" height="280">][myprofile]
 
 <hr/>
 
@@ -47,9 +47,7 @@
 [<img align="left" alt="Node.JS" width="33px" src="https://i.imgur.com/6KMMj6p.png" />][myprofile]
 [<img align="left" alt="MongoDB" width="33px" src="https://i.imgur.com/uyStyoI.png" />][myprofile]
 [<img align="left" alt="Docker" width="33px" src="https://i.imgur.com/a77nqqT.png" />][myprofile]
-
 <br/>
-
 <br/>
 [<img align="left" alt="photoshop" width="33px" src="https://i.imgur.com/0wF2XOt.png" />][myprofile]
 [<img align="left" alt="adobexd" width="33px" src="https://i.imgur.com/aS5MkYE.png" />][myprofile]
