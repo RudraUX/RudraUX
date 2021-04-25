@@ -24,7 +24,7 @@
 [<img align="left" alt="escanor | Twitter" width="25px" src="https://i.imgur.com/fuP9riR.png" />][twitter]
 [<img align="left" alt="escanor | Instagram" width="25px" src="https://i.imgur.com/V811SFU.png"/>][instagram]
 [<img align="left" alt="escanor | Dribble" width="25px" src="https://i.imgur.com/iAyyIQV.png"/>][dribble]
-[<img align="left" alt="escanor | Behance" width="25px" src=https://i.imgur.com/ivRJGef.png"/>][behance]
+[<img align="left" alt="escanor | Behance" width="25px" src="https://i.imgur.com/ivRJGef.png"/>][behance]
 
 <br />
 
