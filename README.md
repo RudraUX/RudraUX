@@ -22,11 +22,9 @@
 <!-- [<img align="left" alt="escanor" width="25px" src="http://pngimg.com/uploads/globe/globe_PNG100096.png" />][website] -->
 
 [<img align="left" alt="escanor | Instagram" width="25px" src="https://i.imgur.com/V811SFU.png"/>][instagram]
-[<img align="left" alt="escanor | Facebook" width="25px" src="https://i.imgur.com/IA3hypb.png" />][facebook]
-[<img align="left" alt="escanor | Twitter" width="25px" src="https://i.imgur.com/fuP9riR.png" />][twitter]
 [<img align="left" alt="escanor | LinkedIn" width="25px" src="https://i.imgur.com/ZkORjnJ.png" />][linkedin]
 [<img align="left" alt="escanor | Behance" width="25px" src="https://i.imgur.com/ivRJGef.png"/>][behance]
-[<img align="left" alt="escanor | Dribble" width="25px" src="https://i.imgur.com/iAyyIQV.png"/>][dribble]
+
 
 <br />
 <br />
@@ -87,8 +85,5 @@
 
 [myprofile]: https://github.com/rudraux
 [instagram]: https://www.instagram.com/rudraux
-[facebook]: https://www.facebook.com/rudraux
-[twitter]: https://twitter.com/pollabrock
 [linkedin]: https://www.linkedin.com/in/rudraux
-[dribble]: https://dribbble.com/rudraux
 [behance]: https://www.behance.com/in/rudraux
