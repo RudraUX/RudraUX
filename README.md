@@ -10,7 +10,7 @@
 - 🔭 Love to Create Beautiful ui and applications<br />
 - 🥅 2021 Goals: Contribute more to Open Source projects.<br />
 - 👯 ! H E A T H E R<br />
-- ⚡ Fun fact 1.0 : Married with REACT<br />
+- ⚡ Fun fact : Married with REACT<br />
 <br/>
 <hr/>
 
