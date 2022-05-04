@@ -36,7 +36,7 @@
 
 ### 💳 Language Card
 
-<img align="center" alt="subhamrex's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamrex&&layout=compact&&theme=tokyonight" />
+<img align="center" alt="rudraux's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraUX&&layout=compact&&theme=tokyonight" />
 
 <br/>
 <br />
