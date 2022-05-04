@@ -36,22 +36,7 @@
 
 <br/>
 
-<!-- [<img align="left" alt="HTML5" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][myprofile] -->
-[<img align="left" alt="CSS3" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][myprofile]
-[<img align="left" alt="JavaScript" width="33px" src="https://i.imgur.com/nL7wWYV.png" />][myprofile]
-<br/>
-<br/>
-[<img align="left" alt="nodejs" width="33px" src="https://i.imgur.com/SHtwLKS.png" />][myprofile]
-[<img align="left" alt="sass" width="33px" src="https://i.imgur.com/HDypNU9.png"/>][myprofile]
-[<img align="left" alt="React" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][myprofile]
-<br/>
 
-<br/>
-[<img align="left" alt="photoshop" width="33px" src="https://i.imgur.com/0wF2XOt.png" />][myprofile]
-[<img align="left" alt="adobexd" width="33px" src="https://i.imgur.com/aS5MkYE.png" />][myprofile]
-[<img align="left" alt="figma" width="33px" src="https://i.imgur.com/Mk0WKfe.png" />][myprofile]
-<br/>
-<br/>
 
 <br />
 <br />
