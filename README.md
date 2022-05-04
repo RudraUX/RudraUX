@@ -41,7 +41,7 @@
 ### 💳 Language Card
 
 <br/>
-<img align="center" alt="subhamrex's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraux&&layout=compact&&theme=tokyonight" />
+<img align="center" alt="Pollab Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraux&&layout=compact&&theme=tokyonight" />
 
 <br />
 
