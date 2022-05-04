@@ -45,11 +45,7 @@
 [<img align="left" alt="sass" width="33px" src="https://i.imgur.com/HDypNU9.png"/>][myprofile]
 [<img align="left" alt="React" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][myprofile]
 <br/>
-<br/>
-[<img align="left" alt="Node.JS" width="33px" src="https://i.imgur.com/6KMMj6p.png" />][myprofile]
-[<img align="left" alt="MongoDB" width="33px" src="https://i.imgur.com/uyStyoI.png" />][myprofile]
-[<img align="left" alt="Docker" width="33px" src="https://i.imgur.com/a77nqqT.png" />][myprofile]
-<br/>
+
 <br/>
 [<img align="left" alt="photoshop" width="33px" src="https://i.imgur.com/0wF2XOt.png" />][myprofile]
 [<img align="left" alt="adobexd" width="33px" src="https://i.imgur.com/aS5MkYE.png" />][myprofile]
