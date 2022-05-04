@@ -8,7 +8,7 @@
 
 <br/>
 - 🔭 Love to Create Beautiful ui and applications<br />
-- 🥅 2021 Goals: Contribute more to Open Source projects.<br />
+- 🥅 2022 Goals: Contribute more to Open Source projects.<br />
 - 👯 ! H E A T H E R <br />
 - ⚡ https://pollab.netlify.app/<br />
 <br/>
