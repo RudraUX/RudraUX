@@ -19,7 +19,6 @@
 <br/>
 <!-- [<img align="left" alt="escanor" width="25px" src="http://pngimg.com/uploads/globe/globe_PNG100096.png" />][website] -->
 
-[<img align="left" alt="escanor | Instagram" width="25px" src="https://i.imgur.com/V811SFU.png"/>][instagram]
 [<img align="left" alt="escanor | LinkedIn" width="25px" src="https://i.imgur.com/ZkORjnJ.png" />][linkedin]
 [<img align="left" alt="escanor | Behance" width="25px" src="https://i.imgur.com/ivRJGef.png"/>][behance]
 
@@ -43,6 +42,5 @@
 </details>
 
 [myprofile]: https://github.com/rudraux
-[instagram]: https://www.instagram.com/rudraux
 [linkedin]: https://www.linkedin.com/in/rudraux
 [behance]: https://www.behance.com/in/rudraux
