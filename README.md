@@ -20,8 +20,8 @@
 
 <!-- [<img align="left" alt="escanor | Twitter" width="30px" src="https://i.ibb.co/sRPgWmH/001-twitter.png" alt="001-twitter" border="0" /></a>][twitter] -->
 [<img align="left" alt="escanor | LinkedIn" width="30px" src="https://i.imgur.com/ZkORjnJ.png" />][linkedin]
-[<img align="left" alt="escanor | Dribble" width="30px" src="https://i.ibb.co/tx18Fsr/dribble.png" alt="dribble" border="0">][dribble]
-<!-- [<img align="left" alt="escanor | Behance" width="30px" src="https://i.imgur.com/ivRJGef.png"/>][behance] -->
+<!-- [<img align="left" alt="escanor | Dribble" width="30px" src="https://i.ibb.co/tx18Fsr/dribble.png" alt="dribble" border="0">][dribble] -->
+[<img align="left" alt="escanor | Behance" width="30px" src="https://i.imgur.com/ivRJGef.png"/>][behance]
 
 <br />
 <br />
@@ -43,6 +43,6 @@
 
 [myprofile]: https://github.com/rudraux
 [linkedin]: https://www.linkedin.com/in/rudraux
-[behance]: https://www.behance.com/in/rudraux
+[behance]: https://www.behance.net/rudraux
 [twitter]: https://twitter.com/rudraux
 [dribble]: https://dribbble.com/rudraux
