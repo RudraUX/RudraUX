@@ -7,21 +7,21 @@
 ### I am a Full-stack Web Developer and UI UX Designer.
 
 <br/>
-- 🔭 Love to Create Beautiful ui and applications<br />
-- 🥅 2022 Goals: Contribute more to Open Source projects.<br />
-- 👯 ! H E A T H E R <br />
+- 🎈Love to Create Beautiful ui and applications<br />
+- 🎉2022 Goals: Contribute more to Open Source projects.<br />
+- 🙊 ! H E A T H E R <br />
 - ⚡ https://pollab.netlify.app/<br />
 <br/>
 <hr/>
 
-### 🧧 Connect with me:
+### 🔥 Connect with me:
 
 <br/>
 <!-- [<img align="left" alt="escanor" width="25px" src="http://pngimg.com/uploads/globe/globe_PNG100096.png" />][website] -->
 
-[<img align="left" alt="escanor | LinkedIn" width="25px" src="https://i.imgur.com/ZkORjnJ.png" />][linkedin]
-[<img align="left" alt="escanor | Behance" width="25px" src="https://i.imgur.com/ivRJGef.png"/>][behance]
-
+[<a href="https://imgbb.com/"><img align="left" alt="escanor | Twitter" width="30px" src="https://i.ibb.co/sRPgWmH/001-twitter.png" alt="001-twitter" border="0" /></a>][twitter]
+[<img align="left" alt="escanor | LinkedIn" width="30px" src="https://i.imgur.com/ZkORjnJ.png" />][linkedin]
+[<img align="left" alt="escanor | Behance" width="30px" src="https://i.imgur.com/ivRJGef.png"/>][behance]
 
 <br />
 <br />
@@ -44,3 +44,4 @@
 [myprofile]: https://github.com/rudraux
 [linkedin]: https://www.linkedin.com/in/rudraux
 [behance]: https://www.behance.com/in/rudraux
+[twitter]: https://twitter.com/rudraux
