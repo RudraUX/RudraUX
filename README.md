@@ -18,7 +18,7 @@
 <br/>
 <!-- [<img align="left" alt="escanor" width="25px" src="http://pngimg.com/uploads/globe/globe_PNG100096.png" />][website] -->
 
-<!-- [<img align="left" alt="escanor | Twitter" width="30px" src="https://i.ibb.co/sRPgWmH/001-twitter.png" alt="001-twitter" border="0" /></a>][twitter] -->
+[<img align="left" alt="escanor | Twitter" width="30px" src="https://i.ibb.co/sRPgWmH/001-twitter.png" alt="001-twitter" border="0" /></a>][twitter]
 [<img align="left" alt="escanor | LinkedIn" width="30px" src="https://i.imgur.com/ZkORjnJ.png" />][linkedin]
 [<img align="left" alt="escanor | Behance" width="30px" src="https://i.imgur.com/ivRJGef.png"/>][behance]
 <!-- [<img align="left" alt="escanor | Dribble" width="30px" src="https://i.ibb.co/tx18Fsr/dribble.png" alt="dribble" border="0">][dribble] -->
