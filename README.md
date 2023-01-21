@@ -28,7 +28,7 @@
 
 <hr/>
 
-### 💳 Language Card
+<!-- ### 💳 Language Card -->
 
 <!-- <img align="center" alt="rudraux's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraUX&&layout=compact&&theme=tokyonight" /> -->
 
@@ -36,10 +36,10 @@
 <br />
 
 <hr/>
-<details>
+<!-- <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RudraUX&show_icons=true&hide_border=true&hide=stars,prs,issues&theme=radical" />
-</details>
+</details> -->
 
 [myprofile]: https://github.com/rudraux
 [linkedin]: https://www.linkedin.com/in/rudraux
