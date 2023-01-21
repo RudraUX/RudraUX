@@ -8,7 +8,7 @@
 
 <br/>
 - 🎈Love to Create Beautiful ui and applications<br />
-- 🎉2022 Goals: Contribute more to Open Source projects.<br />
+<!-- - 🎉2022 Goals: Contribute more to Open Source projects.<br /> -->
 - 🙊 ! H E A T H E R <br />
 <br/>
 <hr/>
@@ -30,7 +30,7 @@
 
 <!-- ### 💳 Language Card -->
 
-<img align="center" alt="rudraux's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraUX&&layout=compact&&theme=tokyonight" />
+<!-- <img align="center" alt="rudraux's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraUX&&layout=compact&&theme=tokyonight" /> -->
 
 <br/>
 <br />
