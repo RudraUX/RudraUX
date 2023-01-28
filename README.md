@@ -15,7 +15,7 @@
 
 [![Twitter: Rudraux](https://img.shields.io/twitter/follow/Rudraux?style=social)](https://twitter.com/rudraux)
 [![Linkedin: Rudraux](https://img.shields.io/badge/-rudraux-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rudraux/)](https://www.linkedin.com/in/rudraux/)
-[![GitHub Rudraux](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/RudraUX)
+[![GitHub Rudraux](https://img.shields.io/github/followers/rudraux?label=follow&style=social)](https://github.com/RudraUX)
 
 ## &#x1f4c8; GitHub Stats
 
