@@ -1,7 +1,6 @@
 <a href="https://www.enji.dev/work/contact">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enjidev/enjidev/main/header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enjidev/enjidev/main/header.svg" />
+    
     <img alt="Pollab Das | Freelancer · Front-End Developer · UI/UX Designer 🎨" src="" width="100%" />
   </picture>
 </a>
@@ -9,9 +8,7 @@
 <header>
   <div align="center">
     
-    <a href="https://twitter.com/RudraUX">
-      <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-enjidev-7733ff?style=flat&logo=twitter&logoColor=ffffff&labelColor=334155">
-    </a>
+    
     
   </div>
 </header>
