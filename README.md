@@ -21,15 +21,13 @@
 
 <br>
 
-<a href="https://github.com/RudraUX">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraux&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<br>
-<br>
-<a href="https://github.com/RudraUX">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rudraux&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Rudra's GitHub Stats" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudraux&langs_count=8&theme=radical)](https://github.com/rudraux/github-readme-stats)
 
+
+<br>
+<br>
+
+![Pollab's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudraux&show_icons=true&theme=radical)
 <br>
 <br>
 
