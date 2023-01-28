@@ -21,13 +21,10 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudraux&langs_count=8&theme=radical)](https://github.com/rudraux/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudraux&langs_count=5&show_icons=true&theme=dark)](https://github.com/rudraux/github-readme-stats)
 <br>
 <br>
-
-![Pollab's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudraux&show_icons=true&theme=radical)
+![Pollab's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudraux&show_icons=true&theme=dark)
 <br>
 <br>
 
@@ -40,10 +37,13 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+<br>
+
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
 ![GreenSock](https://img.shields.io/badge/-GreenSock-000?&logo=GreenSock)
+![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
