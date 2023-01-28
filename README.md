@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Spotify-clone**
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Next JS, AWS**
 
 - 📫 How to reach me **rudraoff7@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 
 [![Twitter: Rudraux](https://img.shields.io/twitter/follow/rudraux?style=social)](https://twitter.com/rudraux)
 [![Linkedin: Rudraux](https://img.shields.io/badge/-rudraux-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rudraux/)](https://www.linkedin.com/in/rudraux/)
