@@ -13,8 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rudraux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudraux" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rudraux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudraux" height="30" width="40" /></a>
+<a href="https://twitter.com/rudraux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudraux" height="20" width="20" /></a>
+  
+<a href="https://linkedin.com/in/rudraux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudraux" height="20" width="20" /></a>
 </p>
 
 ## &#x1f4c8; GitHub Stats
@@ -22,11 +23,12 @@
 <br>
 
 <a href="https://github.com/RudraUX">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraux&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+<br>
+<br>
 <a href="https://github.com/RudraUX">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rudraux&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Rudra's GitHub Stats" />
 </a>
 
 <br>
@@ -45,3 +47,5 @@
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=AWS&logoColor=white&color=4AB197)
