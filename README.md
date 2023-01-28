@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Twitter: Rudraux](https://img.shields.io/twitter/follow/Rudraux?style=social)](https://twitter.com/rudraux)
+[![Twitter: Rudraux](https://img.shields.io/twitter/follow/rudraux?style=social)](https://twitter.com/rudraux)
 [![Linkedin: Rudraux](https://img.shields.io/badge/-rudraux-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rudraux/)](https://www.linkedin.com/in/rudraux/)
 [![GitHub Rudraux](https://img.shields.io/github/followers/rudraux?label=follow&style=social)](https://github.com/RudraUX)
 
