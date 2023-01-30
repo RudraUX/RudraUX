@@ -37,16 +37,16 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 <br>
 
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
 ![GreenSock](https://img.shields.io/badge/-GreenSock-000?&logo=GreenSock)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
 
