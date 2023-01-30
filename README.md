@@ -37,6 +37,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 <br>
 
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
