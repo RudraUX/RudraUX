@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rudra</h1>
+<h1 align="center">Hi 👋, I'm Pollab</h1>
 <h3 align="center">A developer who loves to design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudraux&label=Profile%20views&color=0e75b6&style=flat" alt="rudraux" /> </p>
