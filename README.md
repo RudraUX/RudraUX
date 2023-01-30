@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **reddit-clone**
+- 🔭 I’m currently working on **spotify-clone**
 
 - 🌱 I’m currently learning **Next JS, AWS**
 
