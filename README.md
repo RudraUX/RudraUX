@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on **spotify-clone**
+- 🔭 I’m currently working on **youtube-clone**
 
 - 🌱 I’m currently learning **Next JS, AWS**
 
