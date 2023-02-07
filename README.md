@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on **youtube-clone**
+- 🔭 I’m currently working on **[youtube-clone](https://ytube-clone.vercel.app/)**
 
 - 🌱 I’m currently learning **Next JS, AWS**
 
