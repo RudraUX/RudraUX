@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working on **[youtube-clone](https://ytube-clone.vercel.app/)**
+- 🔭 I’m currently working on **[simple-social-media](https://social-media-rudraux.vercel.app/)**
 
 - 🌱 I’m currently learning **Next JS, AWS**
 
