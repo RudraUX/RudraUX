@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working on **[simple-social-media-app](https://social-media-rudraux.vercel.app/)**
+<!-- - 🔭 I’m currently working on **[simple-social-media-app](https://social-media-rudraux.vercel.app/)** -->
 
 - 🌱 I’m currently learning **Next JS, AWS**
 
