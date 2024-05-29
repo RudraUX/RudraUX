@@ -12,7 +12,7 @@
 
 <!-- - 🔭 I’m currently working on **[simple-social-media-app](https://social-media-rudraux.vercel.app/)** -->
 
-- 🌱 I’m currently learning **kubernetes**
+- 🌱 I’m currently learning **System Design**
 
 - 📫 How to reach me **rudraoff7@gmail.com**
 
